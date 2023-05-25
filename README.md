@@ -5,5 +5,4 @@ Test Repository for CI CD Course
 - Installation 
 
 ## Installation 
-
-How to installhgdhg
+- How to install 
