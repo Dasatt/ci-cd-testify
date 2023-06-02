@@ -1,6 +1,4 @@
-print ("Hello World")
-print ("This is an update")
-
-def addition(a,b):
-    return a+b
-# extra line
+def addition(num1, num2):
+    return num1 + num2
+def subtraction(num1, num2):
+    return num1 - num2
